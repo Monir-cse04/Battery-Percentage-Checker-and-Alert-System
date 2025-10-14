@@ -1,7 +1,10 @@
 # Battery-Percentage-Checker-and-Alert-System
 Ai with python course Project 
 Course code 3152
+
+
 step 1:
+
 <img width="452" height="269" alt="Screenshot 2025-10-15 013049" src="https://github.com/user-attachments/assets/6daac94e-4453-430f-88ec-a46a748a06e2" />
 
 step 2:
